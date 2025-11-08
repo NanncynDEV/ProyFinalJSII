@@ -1,11 +1,11 @@
 {
-  "name": "projfjsii",
+  "name": "forkify",
   "version": "1.0.0",
   "description": "este es mi proyecto final de la materia de javascript II",
   "source": "index.html",
   "scripts": {
-    "start": "",
-    "build": "parcel build indx.html"
+    "start": "parcel index.html",
+    "build": "parcel build indx.js"
   },
   "author": "NanncynMtz",
   "license": "MIT",
@@ -75,4 +75,4 @@
     "utility-types": "^3.11.0",
     "weak-lru-cache": "^1.2.2"
   }
-}
+  }
