@@ -88,10 +88,15 @@ class RecipeView extends View {
       </div>
     `;
   }
-
+render(data) {
+  this._data = data;
+  this._clear();
+  const markup = this._generateMarkup();
+  this._parentElement.insertAdjacentHTML('afterbegin', markup);
+}
   addHandlerRender(handler) {
-    ['hashchange', 'load'].forEach(ev => window.addEventListener(ev, handler));
-  }
+  ['hashchange', 'load'].forEach(ev => window.addEventListener(ev, handler));
+ }
 }
 
 export default new RecipeView();

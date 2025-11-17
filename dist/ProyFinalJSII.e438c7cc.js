@@ -732,7 +732,7 @@ async function controlRecipes() {
         (0, _recipeviewJsDefault.default).renderSpinner();
         await _modelsJs.loadRecipe(id);
         (0, _recipeviewJsDefault.default).render(_modelsJs.state.recipe);
-        (0, _recipeviewJsDefault.default).renderMessage("La receta fue localizada con \xe9xito! \uD83C\uDF89");
+    // recipeView.renderMessage('La receta fue localizada con éxito! 🎉');
     } catch (err) {
         (0, _recipeviewJsDefault.default).renderError(`Ocurri\xf3 un error al obtener la receta: ${err.message}`);
         console.error(err);
@@ -1017,6 +1017,12 @@ class RecipeView extends (0, _viewJsDefault.default) {
         </a>
       </div>
     `;
+    }
+    render(data) {
+        this._data = data;
+        this._clear();
+        const markup = this._generateMarkup();
+        this._parentElement.insertAdjacentHTML('afterbegin', markup);
     }
     addHandlerRender(handler) {
         [
@@ -1510,19 +1516,20 @@ class ResultsView extends (0, _viewJsDefault.default) {
         return this._data.map(this._generateMarkupPreview).join('');
     }
     _generateMarkupPreview(result) {
+        const id = window.location.hash.slice(1);
         return `
-      <li class="preview">
-        <a class="preview__link" href="#${result.id}">
-          <figure class="preview__fig">
-            <img src="${result.image}" alt="${result.title}" />
-          </figure>
-          <div class="preview__data">
-            <h4 class="preview__title">${result.title}</h4>
-            <p class="preview__publisher">${result.publisher}</p>
-          </div>
-        </a>
-      </li>
-    `;
+    <li class="preview">
+      <a class="preview__link ${result.id === id ? 'preview__link--active' : ''}" href="#${result.id}">
+        <figure class="preview__fig">
+          <img src="${result.image}" alt="${result.title}" />
+        </figure>
+        <div class="preview__data">
+          <h4 class="preview__title">${result.title}</h4>
+          <p class="preview__publisher">${result.publisher}</p>
+        </div>
+      </a>
+    </li>
+  `;
     }
 }
 exports.default = new ResultsView();

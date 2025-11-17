@@ -14,7 +14,7 @@ async function controlRecipes() {
     recipeView.renderSpinner();
     await model.loadRecipe(id);
     recipeView.render(model.state.recipe);
-    recipeView.renderMessage('La receta fue localizada con éxito! 🎉');
+   // recipeView.renderMessage('La receta fue localizada con éxito! 🎉');
 
   } catch (err) {
     recipeView.renderError(`Ocurrió un error al obtener la receta: ${err.message}`);
