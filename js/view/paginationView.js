@@ -20,7 +20,7 @@ class PaginationView extends View {
       this._data.results.length / this._data.resultsPerPage
     );
 
-    // 🟢 Caso 1 — Página 1 y más páginas
+    //  Página 1 
     if (curPage === 1 && numPages > 1) {
       return `
         <button data-goto="${curPage + 1}" class="btn--inline pagination__btn--next">
@@ -32,7 +32,7 @@ class PaginationView extends View {
       `;
     }
 
-    // 🔵 Caso 2 — Última página (> 1 página)
+    //  Última página (> 1 página)
     if (curPage === numPages && numPages > 1) {
       return `
         <button data-goto="${curPage - 1}" class="btn--inline pagination__btn--prev">
@@ -44,7 +44,7 @@ class PaginationView extends View {
       `;
     }
 
-    // 🟣 Caso 3 — Página intermedia
+    //  Página intermedia
     if (curPage < numPages) {
       return `
         <button data-goto="${curPage - 1}" class="btn--inline pagination__btn--prev">
@@ -63,7 +63,7 @@ class PaginationView extends View {
       `;
     }
 
-    // ⚪ Caso 4 — Solo 1 página
+    // Solo 1 página
     return '';
   }
 }

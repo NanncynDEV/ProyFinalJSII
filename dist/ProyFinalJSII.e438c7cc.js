@@ -1547,7 +1547,7 @@ class PaginationView extends (0, _viewJsDefault.default) {
     _generateMarkup() {
         const curPage = this._data.page;
         const numPages = Math.ceil(this._data.results.length / this._data.resultsPerPage);
-        // 🟢 Caso 1 — Página 1 y más páginas
+        //  Página 1 
         if (curPage === 1 && numPages > 1) return `
         <button data-goto="${curPage + 1}" class="btn--inline pagination__btn--next">
           <span>Page ${curPage + 1}</span>
@@ -1556,7 +1556,7 @@ class PaginationView extends (0, _viewJsDefault.default) {
           </svg>
         </button>
       `;
-        // 🔵 Caso 2 — Última página (> 1 página)
+        //  Última página (> 1 página)
         if (curPage === numPages && numPages > 1) return `
         <button data-goto="${curPage - 1}" class="btn--inline pagination__btn--prev">
           <svg class="search__icon">
@@ -1565,7 +1565,7 @@ class PaginationView extends (0, _viewJsDefault.default) {
           <span>Page ${curPage - 1}</span>
         </button>
       `;
-        // 🟣 Caso 3 — Página intermedia
+        //  Página intermedia
         if (curPage < numPages) return `
         <button data-goto="${curPage - 1}" class="btn--inline pagination__btn--prev">
           <svg class="search__icon">
@@ -1581,7 +1581,7 @@ class PaginationView extends (0, _viewJsDefault.default) {
           </svg>
         </button>
       `;
-        // ⚪ Caso 4 — Solo 1 página
+        // Solo 1 página
         return '';
     }
 }

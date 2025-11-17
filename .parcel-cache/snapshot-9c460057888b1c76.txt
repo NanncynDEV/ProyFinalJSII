@@ -1,4 +1,4 @@
-3683
+3688
 86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\lib\requests\PathRequest.js134067889166131222 0
 55C:\PracticasDEV\JS\ProyFinalJSII\node_modules\is-number134067889125578557 1
 89C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\workers\lib\threads\ThreadsChild.js134067889153088322 0
@@ -21,7 +21,7 @@
 62C:\PracticasDEV\JS\ProyFinalJSII\node_modules\parcel\README.md134067889151242466 0
 75C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\profiler\src\types.js134067889147030720 0
 58C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\keys.js134067889165175668 0
-37C:\PracticasDEV\JS\ProyFinalJSII\dist134078344549236071 1
+37C:\PracticasDEV\JS\ProyFinalJSII\dist134078890610583640 1
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\source-map\dist\wasm.js134067889149490608 0
 44C:\PracticasDEV\JS\ProyFinalJSII\.prettierrc134049620650770363 0
 86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_class_private_field_init134067889172670168 1
@@ -77,7 +77,7 @@
 65C:\PracticasDEV\JS\ProyFinalJSII\node_modules\escalade\index.d.ts134067889129684660 0
 35C:\PracticasDEV\JS\ProyFinalJSII\js134078340799105961 1
 50C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin134067947112613681 1
-43C:\PracticasDEV\JS\ProyFinalJSII\index.html134078305634854491 0
+43C:\PracticasDEV\JS\ProyFinalJSII\index.html134078741149006850 0
 74C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\rcompare.js134067889152906984 0
 54C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr134067889188026125 1
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\BW.js134067889158935361 0
@@ -269,7 +269,7 @@
 74C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr-extract\binding.gyp134067889125259910 0
 94C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\css-color-function.js134067889165281821 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\BH.js134067889156429913 0
-48C:\PracticasDEV\JS\ProyFinalJSII\dist\index.html134078305635169170 0
+48C:\PracticasDEV\JS\ProyFinalJSII\dist\index.html134078803788649590 0
 71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\cjs\_get.cjs134067889154707790 0
 56C:\PracticasDEV\JS\ProyFinalJSII\node_modules\fill-range134067889125391317 1
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher\src\Debounce.cc134067889134674706 0
@@ -522,7 +522,7 @@
 85C:\PracticasDEV\JS\ProyFinalJSII\node_modules\baseline-browser-mapping\dist\index.cjs134067889126694901 0
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\package-manager134067889159155167 1
 63C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\index.js134067889160081732 0
-63C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js134078344549163462 0
+63C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js134078890610450586 0
 66C:\PracticasDEV\JS\ProyFinalJSII\node_modules\type-fest\index.d.ts134067889137543482 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\bundler-default\LICENSE134067889143228879 0
 96C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\error-overlay\src\listenToRuntimeErrors.js134067889144382760 0
@@ -980,7 +980,7 @@
 87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\svg-filters.js134067889197549531 0
 61C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\util134067947112277213 1
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\value\calculation.d.ts134067947110395355 0
-68C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css.map134078286807903297 0
+68C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css.map134078803788708455 0
 60C:\PracticasDEV\JS\ProyFinalJSII\node_modules\immutable\dist134067947107087842 1
 87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\node_modules\node-addon-api\index.js134067889152343281 0
 92C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\src\_class_private_method_get.mjs134067889184584740 0
@@ -1398,7 +1398,7 @@
 81C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\dependencies\lz4\lib\lz4file.h134067889163664396 0
 89C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\html5semantic.js134067889185149983 0
 82C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\srcset.js134067889197116255 0
-56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.c78699a6.svg134078286806899451 0
+56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.c78699a6.svg134078803788947629 0
 67C:\PracticasDEV\JS\ProyFinalJSII\node_modules\chalk\source\index.js134067889144211325 0
 99C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\focusin-focusout-events.js134067889182077591 0
 116C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js134067889161640028 0
@@ -1524,6 +1524,7 @@
 97C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\getboundingclientrect.js134067889183532419 0
 91C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lightningcss\node_modules\detect-libc\LICENSE134067889146603616 0
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\fraction.js\examples\integrate.js134078316442981546 0
+54C:\PracticasDEV\JS\ProyFinalJSII\js\view\searchView.js134078744253583132 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\YT.js134067889202326429 0
 94C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\cjs\_ts_add_disposable_resource.cjs134067889159336747 0
 75C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lightningcss\node\ast.js.flow134067889133952581 0
@@ -1950,7 +1951,7 @@
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\PL.js134067889193854234 0
 91C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\matchesselector.js134067889190094257 0
 95C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_ts_dispose_resources\package.json134067889181949791 0
-49C:\PracticasDEV\JS\ProyFinalJSII\js\controller.js134078344548168041 0
+49C:\PracticasDEV\JS\ProyFinalJSII\js\controller.js134078880007906707 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\PM.js134067889193884279 0
 94C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs134067889184090984 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\PN.js134067889193930972 0
@@ -3068,7 +3069,7 @@
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\LICENSE134067889128827841 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\package.json134067889129729989 0
 81C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\README.md134067889130503004 0
-67C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js.map134078344549213493 0
+67C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js.map134078890610538582 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\watcher.node134067889139142558 0
 73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher\binding.gyp134067889148430149 0
 72C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher\index.d.ts134067889154347216 0
@@ -3672,13 +3673,17 @@
 57C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin\parcel134067889203777493 0
 61C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin\parcel.ps1134067889203777493 0
 61C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin\semver.cmd134067889203787458 0
-45C:\PracticasDEV\JS\ProyFinalJSII\js\config.js134078340677490992 0
-45C:\PracticasDEV\JS\ProyFinalJSII\js\helper.js134078340904815243 0
+45C:\PracticasDEV\JS\ProyFinalJSII\js\config.js134078773994267621 0
+45C:\PracticasDEV\JS\ProyFinalJSII\js\helper.js134078351555407551 0
 44C:\PracticasDEV\JS\ProyFinalJSII\js\index.js134067964361270994 0
-45C:\PracticasDEV\JS\ProyFinalJSII\js\models.js134078346961342202 0
-40C:\PracticasDEV\JS\ProyFinalJSII\js\view134078052249668617 1
-54C:\PracticasDEV\JS\ProyFinalJSII\js\view\Recipeview.js134078345017944727 0
+45C:\PracticasDEV\JS\ProyFinalJSII\js\models.js134078798683538115 0
+40C:\PracticasDEV\JS\ProyFinalJSII\js\view134078875226183947 1
+58C:\PracticasDEV\JS\ProyFinalJSII\js\view\paginationView.js134078890607830892 0
+54C:\PracticasDEV\JS\ProyFinalJSII\js\view\Recipeview.js134078760218712289 0
+55C:\PracticasDEV\JS\ProyFinalJSII\js\view\ResultsView.js134078799731582939 0
+48C:\PracticasDEV\JS\ProyFinalJSII\js\view\view.js134078747054012957 0
 45C:\PracticasDEV\JS\ProyFinalJSII\img\logo.png134051455391650031 0
-56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.21e532ec.svg134078286806899451 0
-55C:\PracticasDEV\JS\ProyFinalJSII\dist\logo.b82d6c7c.png134078286806909435 0
-64C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css134078286807863307 0
+56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.21e532ec.svg134078737255661460 0
+56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.bcb921cf.svg134078803788937828 0
+55C:\PracticasDEV\JS\ProyFinalJSII\dist\logo.b82d6c7c.png134078803788646114 0
+64C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css134078803788636009 0
