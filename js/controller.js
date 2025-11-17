@@ -2,6 +2,8 @@ import * as model from './models.js';
 import recipeView from './view/Recipeview.js';
 import searchView from './view/searchView.js';
 import resultsView from './view/ResultsView.js';
+import paginationView from './view/paginationView.js';
+
 console.log('searchView:', searchView);
 
 async function controlRecipes() {
@@ -25,14 +27,14 @@ async function controlSearchResults() {
     const query = searchView.getQuery();
     if (!query) return;
 
-    // 1️⃣ Mostrar spinner en área de resultados
     resultsView.renderSpinner();
-
-    // 2️⃣ Cargar resultados desde la API
     await model.loadSearchResults(query);
 
-    // 3️⃣ Renderizar resultados en pantalla
-    resultsView.render(model.state.search.results);
+    // Render de página 1
+    resultsView.render(model.getSearchResultsPage(1));
+
+    // Render de botones de paginación
+    paginationView.render(model.state.search);
 
   } catch (err) {
     resultsView.renderError();
@@ -40,8 +42,17 @@ async function controlSearchResults() {
   }
 }
 
+
+function controlPagination(goToPage) {
+  // Renderizar resultados de la nueva página
+  resultsView.render(model.getSearchResultsPage(goToPage));
+
+  // Renderizar los botones actualizados
+  paginationView.render(model.state.search);
+}
 function init() {
   recipeView.addHandlerRender(controlRecipes);
   searchView.addHandlerSearch(controlSearchResults);
+  paginationView.addHandlerClick(controlPagination);
 }
 init();

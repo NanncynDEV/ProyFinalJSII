@@ -1,5 +1,8 @@
-import { API_URL } from './config.js';
+//import { API_URL } from './config.js';
+import { API_URL, RES_PER_PAGE } from './config.js';
 import { getJSON } from './helper.js';
+
+
 
 // Estado Global de la Aplicación
 //Aquí se almacenan los datos que se comparten entre módulos
@@ -8,6 +11,8 @@ export const state = {
   search: {
     query: '',
     results: [],   // Aquí quedará el arreglo que necesitas (el de tu imagen)
+    page: 1,                    // 👈 nueva propiedad
+    resultsPerPage: RES_PER_PAGE,   // 👈 nueva propiedad
   },
   bookmarks: [],
 };
@@ -66,19 +71,43 @@ export async function loadSearchResults(query) {
   }
 }
 
-// ===========================================
-// (Opcional) Controlador si lo usas aun
-// ===========================================
-async function controlSearchResults(query) {
-  try {
-    if (!query) return;
+//async function controlSearchResults(query) {
+ // try {
+   // if (!query) return;
    // await loadSearchResults(query);
-   await loadSearchResults("pizza");
-console.log(state.search.query);    // "pizza"
-console.log(state.search.results);  // array de objetos formateados
-    recipeView.renderSearchResults(state.search.results);
+   //await loadSearchResults("pizza");
+//console.log(state.search.query);    // "pizza"
+//console.log(state.search.results);  // array de objetos formateados
+ //   recipeView.renderSearchResults(state.search.results);
+ // } catch (err) {
+ //   console.error(err);
+ // }
+//}
+
+async function controlSearchResults() {
+  try {
+    const query = searchView.getQuery();
+    if (!query) return;
+
+    resultsView.renderSpinner();
+    await model.loadSearchResults(query);
+
+    // ⬇ ⬇ ⬇ AQUÍ
+    resultsView.render(model.getSearchResultsPage());
   } catch (err) {
-    console.error(err);
+    resultsView.renderError();
   }
 }
 
+
+export function getSearchResultsPage(page = state.search.page) {
+  state.search.page = page;
+  
+
+  const start = (page - 1) * state.search.resultsPerPage;
+  const end = page * state.search.resultsPerPage;
+
+  return state.search.results.slice(start, end);
+}
+//model.getSearchResultsPage(1).length  // → 10
+//model.getSearchResultsPage(2).length
