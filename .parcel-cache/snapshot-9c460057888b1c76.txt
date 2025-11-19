@@ -1,4 +1,4 @@
-3688
+3690
 86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\lib\requests\PathRequest.js134078897484613242 0
 55C:\PracticasDEV\JS\ProyFinalJSII\node_modules\is-number134078897404406374 1
 89C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\workers\lib\threads\ThreadsChild.js134078897465018338 0
@@ -21,7 +21,7 @@
 62C:\PracticasDEV\JS\ProyFinalJSII\node_modules\parcel\README.md134078897468158046 0
 75C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\profiler\src\types.js134078897442005211 0
 58C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\keys.js134078897430416177 0
-37C:\PracticasDEV\JS\ProyFinalJSII\dist134079991993954741 1
+37C:\PracticasDEV\JS\ProyFinalJSII\dist134080010890068938 1
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\source-map\dist\wasm.js134078897468858109 0
 44C:\PracticasDEV\JS\ProyFinalJSII\.prettierrc134049620650770363 0
 86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_class_private_field_init134078897426148430 1
@@ -98,7 +98,7 @@
 83C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\utils\test\DefaultMap.test.js134078897436204849 0
 76C:\PracticasDEV\JS\ProyFinalJSII\node_modules\node-addon-api\tools\README.md134078897419825768 0
 92C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\esm\_class_private_method_init.js134078897421758822 0
-45C:\PracticasDEV\JS\ProyFinalJSII\package.json134079991835069961 0
+45C:\PracticasDEV\JS\ProyFinalJSII\package.json134080010861854595 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\utility-types\dist\mapped-types.js.map134078897419445432 0
 73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\rust\src\browser.js134078897439213221 0
 117C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1134078897667002982 0
@@ -107,13 +107,28 @@
 37C:\PracticasDEV\JS\ProyFinalJSII\sass134051455392590514 1
 81C:\PracticasDEV\JS\ProyFinalJSII\node_modules\node-releases\data\release-schedule134078897405042121 1
 92C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\text-size-adjust.js134078897449498519 0
+72C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\value\list.d.ts134078897476634024 0
+84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\webauthn.js134078897452326510 0
+76C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@lezer\common\dist\index.d.cts134078897438742317 0
+42C:\PracticasDEV\JS\ProyFinalJSII\_redirect134080006970244595 0
+86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\esm\_object_spread_props.js134078897423290883 0
+63C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data134078897434008199 1
+66C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\core\index.d.ts134078897428359795 0
+73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\weak-lru-cache\package.json134078897415640863 0
+89C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\server-timing.js134078897447596167 0
+87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\packager-wasm\src\WasmPackager.js134078897410884146 0
+80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\apng.js134078897419075443 0
+98C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\css-content-visibility.js134078897424948009 0
+62C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\src\txn.cpp134078897428069732 0
+43C:\PracticasDEV\JS\ProyFinalJSII\_redirects134080006457791789 0
+80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\source-map-js\lib\source-node.d.ts134078897430826316 0
+59C:\PracticasDEV\JS\ProyFinalJSII\node_modules\dotenv-expand134078897433252729 1
+77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\GY.js134078897436324837 0
+47C:\PracticasDEV\JS\ProyFinalJSII\sass\main.scss134051455392610632 0
 59C:\PracticasDEV\JS\ProyFinalJSII\node_modules\node-releases134078897405392188 1
 63C:\PracticasDEV\JS\ProyFinalJSII\node_modules\picomatch\LICENSE134078897403790899 0
 73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\utility-types\dist\index.js134078897418955439 0
 59C:\PracticasDEV\JS\ProyFinalJSII\node_modules\color-convert134078897405572141 1
-59C:\PracticasDEV\JS\ProyFinalJSII\node_modules\dotenv-expand134078897433252729 1
-77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\GY.js134078897436324837 0
-47C:\PracticasDEV\JS\ProyFinalJSII\sass\main.scss134051455392610632 0
 64C:\PracticasDEV\JS\ProyFinalJSII\node_modules\chrome-trace-event134078897419105408 1
 83C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\PublicAsset.test.js134078897484853638 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\IR.js134078897439293189 0
@@ -177,10 +192,6 @@
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_wrap_native_super134078897432037130 1
 64C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.package-lock.json134078897678496165 0
 78C:\PracticasDEV\JS\ProyFinalJSII\node_modules\postcss-value-parser\lib\walk.js134078897408138981 0
-85C:\PracticasDEV\JS\ProyFinalJSII\node_modules\electron-to-chromium\full-versions.json134078897416842356 0
-79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\node-addon-api\node_addon_api.gyp134078897417317702 0
-96C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext134078897500219174 1
-56C:\PracticasDEV\JS\ProyFinalJSII\node_modules\nullthrows134078897430096165 1
 97C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js134078897423460631 0
 86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\baseline-browser-mapping\dist\index.d.ts134078897416692133 0
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\dotenv-expand\config.js134078897432867289 0
@@ -269,7 +280,7 @@
 74C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr-extract\binding.gyp134078897411624234 0
 94C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\css-color-function.js134078897424677967 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\BH.js134078897420986416 0
-48C:\PracticasDEV\JS\ProyFinalJSII\dist\index.html134079991993934521 0
+48C:\PracticasDEV\JS\ProyFinalJSII\dist\index.html134080010890058751 0
 71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\cjs\_get.cjs134078897417728072 0
 56C:\PracticasDEV\JS\ProyFinalJSII\node_modules\fill-range134078897404426432 1
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher\src\Debounce.cc134078897429065453 0
@@ -316,6 +327,10 @@
 63C:\PracticasDEV\JS\ProyFinalJSII\node_modules\term-size\license134078897407163491 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\TR.js134078897450054870 0
 65C:\PracticasDEV\JS\ProyFinalJSII\node_modules\json5\lib\util.d.ts134078897410308686 0
+85C:\PracticasDEV\JS\ProyFinalJSII\node_modules\electron-to-chromium\full-versions.json134078897416842356 0
+79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\node-addon-api\node_addon_api.gyp134078897417317702 0
+96C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext134078897500219174 1
+56C:\PracticasDEV\JS\ProyFinalJSII\node_modules\nullthrows134078897430096165 1
 83C:\PracticasDEV\JS\ProyFinalJSII\node_modules\node-addon-api\tools\eslint-format.js134078897419385395 0
 80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\package-manager\src\Npm.js134078897443461605 0
 60C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary134078897416852376 1
@@ -394,16 +409,6 @@
 105C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1134078897424314201 0
 93C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\css-rebeccapurple.js134078897428259720 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary\.nyc_output\processinfo134078897416282131 1
-72C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\value\list.d.ts134078897476634024 0
-84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\webauthn.js134078897452326510 0
-86C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\esm\_object_spread_props.js134078897423290883 0
-63C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data134078897434008199 1
-66C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\core\index.d.ts134078897428359795 0
-73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\weak-lru-cache\package.json134078897415640863 0
-89C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\server-timing.js134078897447596167 0
-87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\packager-wasm\src\WasmPackager.js134078897410884146 0
-80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\apng.js134078897419075443 0
-98C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\css-content-visibility.js134078897424948009 0
 75C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\transformer-image\src134078897408678974 1
 87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\import-maps.js134078897437480319 0
 62C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\value134078897477339864 1
@@ -522,7 +527,7 @@
 85C:\PracticasDEV\JS\ProyFinalJSII\node_modules\baseline-browser-mapping\dist\index.cjs134078897415650923 0
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\package-manager134078897444267937 1
 63C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\index.js134078897432902673 0
-63C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js134079991993328948 0
+63C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js134080010889262912 0
 66C:\PracticasDEV\JS\ProyFinalJSII\node_modules\type-fest\index.d.ts134078897447586164 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\bundler-default\LICENSE134078897412049890 0
 96C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\error-overlay\src\listenToRuntimeErrors.js134078897409724869 0
@@ -823,8 +828,6 @@
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\DK.js134078897432147097 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\transformer-sass\lib\modern.js134078897472306429 0
 64C:\PracticasDEV\JS\ProyFinalJSII\node_modules\readdirp\README.md134078897405562156 0
-62C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\src\txn.cpp134078897428069732 0
-80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\source-map-js\lib\source-node.d.ts134078897430826316 0
 107C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js134078897407813783 0
 91C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js134078897405877745 0
 70C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\ranges\outside.js134078897411824403 0
@@ -906,11 +909,11 @@
 68C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\gt.js134078897407713441 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\BS.js134078897421688387 0
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\gte.js134078897407868779 0
+69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\lte.js134078897410418671 0
 93C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js134078897461145036 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\EE.js134078897433192746 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\fontface.js134078897435103653 0
 71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\parse.js134078897412299936 0
-69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\lte.js134078897410418671 0
 71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\functions\major.js134078897410894197 0
 64C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\dict\dict.txt134078897431871790 0
 75C:\PracticasDEV\JS\ProyFinalJSII\node_modules\nullthrows\nullthrows.js.flow134078897430076193 0
@@ -940,8 +943,8 @@
 91C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\urlsearchparams.js134078897450644906 0
 73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\workers\src\process134078897464872534 1
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\classes\index.js134078897408874588 0
-83C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\datauri.js134078897431571661 0
 92C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_apply_decs_2203_r\package.json134078897424796987 0
+83C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\datauri.js134078897431571661 0
 95C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\error-overlay\src\components\CodeBlock.js134078897404922251 0
 66C:\PracticasDEV\JS\ProyFinalJSII\node_modules\nullthrows\README.md134078897430106157 0
 70C:\PracticasDEV\JS\ProyFinalJSII\node_modules\semver\classes\semver.js134078897416462129 0
@@ -980,7 +983,7 @@
 87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\svg-filters.js134078897448832877 0
 61C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\util134078897477079901 1
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\value\calculation.d.ts134078897475820920 0
-68C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css.map134079991993779276 0
+68C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css.map134080010889342921 0
 60C:\PracticasDEV\JS\ProyFinalJSII\node_modules\immutable\dist134078897408368988 1
 87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\node_modules\node-addon-api\index.js134078897485459448 0
 92C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\src\_class_private_method_get.mjs134078897433562791 0
@@ -997,8 +1000,6 @@
 72C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary\.nyc_output134078897416102118 1
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\logger\source_location.d.ts134078897477159887 0
 59C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\write.js134078897431091603 0
-80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\src\_create_class.mjs134078897433822868 0
-67C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\package.json134078897439413202 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\LK.js134078897441209751 0
 78C:\PracticasDEV\JS\ProyFinalJSII\node_modules\sass\types\legacy\exception.d.ts134078897476277628 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\GM.js134078897436024875 0
@@ -1114,14 +1115,14 @@
 102C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c134078897426508545 0
 82C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary\assets\powers-dre.png134078897416812360 0
 65C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_jsx134078897429215594 1
-71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\utils\src\svgo.js134078897437982338 0
-126C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json134078897416202095 0
+99C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc134078897460935064 0
+87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr-extract\node_modules\detect-libc134078897476398046 1
 87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\packager-html\lib\HTMLPackager.js134078897410098700 0
 88C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\workers\lib\core-worker.browser.js134078897464082143 0
 62C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\pack.js134078897433192746 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\VU.js134078897451460972 0
-99C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc134078897460935064 0
-87C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr-extract\node_modules\detect-libc134078897476398046 1
+71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\utils\src\svgo.js134078897437982338 0
+126C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json134078897416202095 0
 88C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\parcel\other.js134078897480326571 0
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\workers\src\childState.js134078897463896590 0
 95C:\PracticasDEV\JS\ProyFinalJSII\node_modules\ordered-binary\.nyc_output\processinfo\index.json134078897416312225 0
@@ -1247,6 +1248,8 @@
 68C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\node-index.js134078897433112762 0
 80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\optimizer-swc\package.json134078897410508785 0
 64C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\pack.d.ts134078897487221578 0
+80C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\src\_create_class.mjs134078897433822868 0
+67C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\package.json134078897439413202 0
 71C:\PracticasDEV\JS\ProyFinalJSII\node_modules\msgpackr\rollup.config.js134078897435013631 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\KY.js134078897440594057 0
 81C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\main-mjs134078897500964345 1
@@ -1398,7 +1401,7 @@
 81C:\PracticasDEV\JS\ProyFinalJSII\node_modules\lmdb\dependencies\lz4\lib\lz4file.h134078897429385549 0
 89C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\html5semantic.js134078897436900354 0
 82C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\srcset.js134078897448392422 0
-56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.c78699a6.svg134079991993308935 0
+56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.c78699a6.svg134080010888517613 0
 67C:\PracticasDEV\JS\ProyFinalJSII\node_modules\chalk\source\index.js134078897404176325 0
 99C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\focusin-focusout-events.js134078897434688235 0
 116C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js134078897479450941 0
@@ -1819,9 +1822,9 @@
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\CF.js134078897422104791 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\CI.js134078897422554846 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\CK.js134078897422594792 0
+101C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json134078897424726750 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\CL.js134078897422664819 0
 99C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\features\background-position-x-y.js134078897420581081 0
-101C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json134078897424726750 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\CM.js134078897422875244 0
 77C:\PracticasDEV\JS\ProyFinalJSII\node_modules\caniuse-lite\data\regions\DE.js134078897431671583 0
 75C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\profiler\src\Trace.js134078897441839951 0
@@ -3069,7 +3072,7 @@
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\LICENSE134078897417357748 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\package.json134078897417457821 0
 81C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\README.md134078897417527702 0
-67C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js.map134079991993789198 0
+67C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.e438c7cc.js.map134080010889352911 0
 84C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher-win32-x64\watcher.node134078897419085461 0
 73C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher\binding.gyp134078897430046110 0
 72C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@parcel\watcher\index.d.ts134078897431381578 0
@@ -3660,7 +3663,6 @@
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@lezer\lr\dist\index.js134078897432892523 0
 72C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@lezer\common\package.json134078897439213221 0
 69C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@lezer\common\README.md134078897439273158 0
-76C:\PracticasDEV\JS\ProyFinalJSII\node_modules\@lezer\common\dist\index.d.cts134078897438742317 0
 79C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin\baseline-browser-mapping.cmd134078897666823007 0
 67C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin\browserslist.cmd134078897666832989 0
 74C:\PracticasDEV\JS\ProyFinalJSII\node_modules\.bin\download-lmdb-prebuilds134078897666842980 0
@@ -3684,6 +3686,6 @@
 48C:\PracticasDEV\JS\ProyFinalJSII\js\view\view.js134078747054012957 0
 45C:\PracticasDEV\JS\ProyFinalJSII\img\logo.png134051455391650031 0
 56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.21e532ec.svg134078737255661460 0
-56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.bcb921cf.svg134079991993318991 0
-55C:\PracticasDEV\JS\ProyFinalJSII\dist\logo.b82d6c7c.png134079991993328948 0
-64C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css134079991993318991 0
+56C:\PracticasDEV\JS\ProyFinalJSII\dist\icons.bcb921cf.svg134080010888517613 0
+55C:\PracticasDEV\JS\ProyFinalJSII\dist\logo.b82d6c7c.png134080010889262912 0
+64C:\PracticasDEV\JS\ProyFinalJSII\dist\ProyFinalJSII.8d8029cf.css134080010889222937 0
